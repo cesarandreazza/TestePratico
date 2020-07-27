@@ -11,7 +11,8 @@ No item "Opções de apresentaçãodas informações processadas" também escolh
 
 
 O desenvolvimento da alternativa 2 em ambos os casos seria mais simples e rápida, não prejudicaria a apresentação dos resultados, porém teria impacto no requisito de interface amigável.
-Outro ponto que considerei é que este caso se trata de testar os conhecimentos na tecnologia .NET e o desenvolvimento da interface é importante, porque exige mais do desenvolvedor.
+Outro ponto que considerei é que este caso se trata de testar os conhecimentos na tecnologia .NET e o desenvolvimento da interface é importante, 
+porque exigiu de mim atenção a detalhes quanto a maneira adequada de apresentar os resultados e de todos os detalhes inerentes a este processo.
 
 
 
