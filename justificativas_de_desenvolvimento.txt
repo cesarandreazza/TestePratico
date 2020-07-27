@@ -1,0 +1,19 @@
+Justificativas:
+
+Para tomar as decições a respeito das opções de desenvolvimento, levei em conta que um dos requisitos não funcionais é o do desenvolvimento de uma plataforma com interface amigável.
+
+No item "Opções de criação do projeto para processamento" escolhi a alternativa 1, conforme descrito:
+	Alternativa 1: solicitar o processamento através da interface gráficacom Windowsforms, aguardando em uma fila de processamento. 
+	-A fila de processamento deverá ser processada ao executar o console.
+
+No item "Opções de apresentaçãodas informações processadas" também escolhi a alternativa 1.
+	Alternativa 1: apresentar os resultados para o usuário através da interface gráfica com Windowsforms.
+
+
+O desenvolvimento da alternativa 2 em ambos os casos seria mais simples e rápida, não prejudicaria a apresentação dos resultados, porém teria impacto no requisito de interface amigável.
+Outro ponto que considerei é que este caso se trata de testar os conhecimentos na tecnologia .NET e o desenvolvimento da interface é importante, porque exige mais do desenvolvedor.
+
+
+
+
+
