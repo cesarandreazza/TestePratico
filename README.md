@@ -14,9 +14,9 @@ A pasta Database no repositório contém o modelo de dados, o dicionário de dad
 ### Fontes
  
  A pasta fontes contém 3 projetos em C#:
-* ** Configurador: projeto Windows Form com as interfaces gráficas.
-* ** Procesamento: projeto Windows Console para a execução dos processamentos.
-* ** Biblioteca: projeto Windows Library com as classes desenvolvidas.
+*** Configurador: projeto Windows Form com as interfaces gráficas.
+*** Procesamento: projeto Windows Console para a execução dos processamentos.
+*** Biblioteca: projeto Windows Library com as classes desenvolvidas.
 
 Para a execução dos programas e necessário editar o arquivo xml  .config e indicar o caminho correto do arquivo SQLite na key="SQLitePath";
 
