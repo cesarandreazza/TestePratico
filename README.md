@@ -15,7 +15,7 @@ A pasta Database no repositório contém o modelo de dados, o dicionário de dad
 ### Fontes
  
  A pasta fontes contém 3 projetos em C#:
-* ** Configurador: projeto Windows Form com as interfaces gráficas.
+* Configurador: projeto Windows Form com as interfaces gráficas.
 * ** Procesamento: projeto Windows Console para a execução dos processamentos.
 * ** Biblioteca: projeto Windows Library com as classes desenvolvidas.
 
