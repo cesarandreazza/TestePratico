@@ -4,7 +4,7 @@ Instruções do teste prático
 ### Database
 
 O banco de dados escolhido foi o SQLite pela facilidade e leveza aderentes ao tipo de desenvolvimento prosposto.
-Um aplicativo portável para o SQLite pode ser encontrado [aqui] (https://portableapps.com/apps/development/sqlite_database_browser_portable).
+Um aplicativo portável para o SQLite pode ser encontrado [aqui](https://portableapps.com/apps/development/sqlite_database_browser_portable).
 
 Existem outros softwares disponíveis na internet.
 
